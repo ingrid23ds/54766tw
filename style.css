@@ -1,0 +1,189 @@
+# 54766tw
+*{
+    margin: 0;
+    padding: 0;
+  }
+.cabeça{
+    background-color:#040303;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+   }
+img {
+    text-align:center ;
+    width:200px;
+   display: block;
+   margin: auto;  
+    height: 65px;
+  }
+h3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 70px;
+  }
+.corpo {
+    background-color: black;
+    height: 5px;
+    width: 50px;
+    margin-left: 500px;
+  }
+   p{
+      margin-left:70px; 
+  } 
+h2 {
+    margin-left: 500px;
+  }
+.quadro{
+    border:2px solid #cbc5c5;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-right: 1000px;
+    height: 380px;
+    width: 850px;
+  }
+.relogio{
+    width:20px;
+    height: auto;
+    margin-top: 40px;
+    margin-left: 40px
+  }
+.Horário{
+    margin-top: -20px;
+    margin-left: 70px;
+    color:rgb(193, 194, 195)
+  }
+.periodo{
+    color:rgb(193, 194, 195)
+  }
+ p{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 500px;
+  }
+h2{
+    margin-left: 500px;
+  }
+hr{
+    width:710px;
+    margin-left:20px;
+  } 
+label {
+    margin-left: 10px;  
+    color:rgb(193, 194, 195)
+   }
+input {
+    margin-left: 35px;
+  }
+.numero{
+    display: flex;
+    justify-content: center;
+    color:rgb(175, 181, 186)
+  }
+label{
+  margin-left:10px ;
+  color:rgb(193, 194, 195)
+  }
+input{
+  margin-left: 35px;
+  }
+.quadrado { 
+    width: 15px;
+    height: 15px; 
+    background-color: #040303; 
+  }
+.botao1 {
+    background-color:rgb(255, 208, 18);  
+    width: 190px;
+    height: 35px;
+    border: none    ;
+  }
+body .botao2{
+    background-color:rgb(255, 255, 255);  
+    width:190px ;
+    height: 35px;
+  }
+.alinhar{
+    display: flex;
+    justify-content: center;
+  }
+.resultados{
+     margin-top: -25px;
+}
+.mascara{
+  margin-top:-23px;
+  height:200px;
+  margin-left: 40px;
+  margin-top:-34px;
+}
+.itens{
+    background-color:#cbc5c5;
+    width: -150px;
+    height: 60px;
+    margin-left: -1px;
+    border-radius: 3px;
+    margin-top: 60px;
+    padding: 50px;
+  }
+.mask{
+  width: 60px;
+  margin-top: -165px;
+  margin-left: -22px;
+}
+.mask2{
+  width: 60px;
+  margin-top:-70px ;
+  margin-left: 85px;
+  height: -1px;
+}
+.obrigatório{
+  margin-top: -2px;
+margin-left: -24px;
+}
+.recomendado{
+  margin-top: -35px;
+  margin-left: 82px;
+}
+.toalha{
+ margin-left: 255px;
+ margin-top: -150px;
+}
+.lenço{
+  margin-top: 20px;
+  margin-left: 200px;
+  width: 65px;
+}
+.lenço2{
+margin-top: -85px;
+margin-left: 310px;
+width: 65px;
+}
+.obrigatório1{
+  margin-left: 200px;
+  margin-top: -4px;
+}
+.recomendado2{
+  margin-left: 300px;
+  margin-top: -35px;
+}
+.bebedouro{
+  margin-top: -155px;
+  margin-left: 430px;
+}
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
